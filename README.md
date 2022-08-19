@@ -1,7 +1,7 @@
-##Course code and title: COMP5200M 
-##MSc project Malware Detection
+#Course code and title: COMP5200M 
+#MSc project Malware Detection
 
-##Requirement
+#Requirement
 -python                    3.8.13 
 -gensim                    3.7.2
 -pandas                    1.4.3
@@ -13,10 +13,10 @@
 
 
 
-##Run Configuration: GPU/CPU
+#Run Configuration: GPU/CPU
 
 
-##Python packages:
+#Python packages:
 
 jupyter notebook
 
@@ -24,7 +24,7 @@ Chongxin34.csv - feature importance （5-folded）
 
 Original4.csv - online test submission 
 
-##Parameters of the XGBoost
+#Parameters of the XGBoost
 'max_depth': 6
 'eta': 0.01
 'eval_metric': 'mlogloss'
@@ -36,9 +36,9 @@ Original4.csv - online test submission
 
 
 
-##The structure of the system:
+#The structure of the system:
 
-#Feature Extraction
+Feature Extraction
 
 First-order Statistical Features
 Higher-order Statistical Feature
